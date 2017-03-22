@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_fc3df4e81e2c522f2759cdfe655868085047f341.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_063783b2c5bdd9a62ac9e942fc801636dbd93c7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_3d8b52981c1f42ee83866af238f2327ae8c424f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rio/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_8441c084ceb81f841cc610e6739797600431e981.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_ce5222a9c53068e30177596a32e8ab96683d3afb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_1c28d3394afa49e5fa58addfbb4ede55933ae242.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_1926c53c39544ebcebcc99a3d43720d1ac6a6f84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_fbb5b4feb105d498b1d452d80c1eed62ede9a086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e007008d3ac6c3597df170a8ef0c1d29dbd8954">
+        <dex dex="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_5b7db05aa41c2ac1641c191b9a0083fff4ab62b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_f4050cabea29ef865b78ce8a53fb69de96ebb71e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510a8f93e7dcc1a46987a05a7766cee28bd1f9c5">
+        <dex dex="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/pre-dexed/debug/instant-run_a3592dd6c9555d5011612d15b739fd9ca0068122.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/rio/AndroidStudioProjects/Mikrotremor/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_729ce67ac9adb134b027f82214ca23a58deb3c3f.jar" />
+    </item>
+
+</items>

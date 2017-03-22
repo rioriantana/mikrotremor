@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mikrotremor</string>
+    <array name="seismikX"></array>
+    <array name="seismikY"></array>
+    <array name="seismikZ"></array>
+</resources>
